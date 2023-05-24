@@ -1,2 +1,2 @@
 # E-commerce
-online shop impelentation with django
+online shop implementation with django
